@@ -10,9 +10,9 @@ SQL database and ER diagram for a Hotel Booking System.
 
 This is a relational database project built using MySQL to manage hotel operations. It maintains records for guests, rooms, bookings, payments, and additional services, enabling efficient tracking, billing, and reporting for hotel management.
 
----
 
- 📁 Database Structure
+
+📁 Database Structure
 
 ✅ **Tables:**
 
@@ -42,8 +42,7 @@ This is a relational database project built using MySQL to manage hotel operatio
 
 ---
 
-Do you want me to also prepare the **Task 2 version** in the same format for your DML (INSERT, UPDATE, DELETE) practice? That way your GitHub will look uniform.
-
+📌Summary:
 
 In Task 1, I learned how to create a database, design relational tables with appropriate fields and data types, and define relationships using primary and foreign keys. I also created an ER diagram to visually represent the schema and connections between tables.
 
